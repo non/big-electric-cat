@@ -2,8 +2,7 @@
 
 ### Dedication
 
-> Big electric cat / big electric cat
-> Big electric cat / big electric cat
+> Big electric cat / big electric cat / big electric cat / big electric cat.
 >
 > -- Adrian Belew, "Big Electric Cat" (1982)
 
