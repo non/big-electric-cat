@@ -7,9 +7,11 @@
 > -- Adrian Belew, "Big Electric Cat" (1982)
 
 This project is named after
-[The Big Electric Cat](https://en.wikipedia.org/wiki/The_Big_Electric_Cat)
-a public access computer system in New York City which was named after
-Adrian Belew's song of the same name.
+[The Big Electric Cat](https://en.wikipedia.org/wiki/The_Big_Electric_Cat),
+a public access computer system in New York City which itself was
+named after
+[Adrian Belew](https://en.wikipedia.org/wiki/Adrian_Belew)'s song of
+the same name.
 
 ### Overview
 
