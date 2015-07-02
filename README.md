@@ -37,4 +37,4 @@ All code is available to you under the MIT license, available at
 http://opensource.org/licenses/mit-license.php and also in the
 [COPYING](COPYING) file.
 
-Copyright Erik Osheim, 2015.
+Copyright Adelbert Chang and Erik Osheim, 2015.
